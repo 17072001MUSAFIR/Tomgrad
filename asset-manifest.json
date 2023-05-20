@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Tomgrad/static/css/main.073c9b0a.css",
-    "main.js": "/Tomgrad/static/js/main.bd696fec.js",
-    "static/js/787.c84bb2e0.chunk.js": "/Tomgrad/static/js/787.c84bb2e0.chunk.js",
-    "static/media/logo.svg": "/Tomgrad/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/Tomgrad/index.html",
-    "main.073c9b0a.css.map": "/Tomgrad/static/css/main.073c9b0a.css.map",
-    "main.bd696fec.js.map": "/Tomgrad/static/js/main.bd696fec.js.map",
-    "787.c84bb2e0.chunk.js.map": "/Tomgrad/static/js/787.c84bb2e0.chunk.js.map"
+    "main.css": "/tomgrad/static/css/main.073c9b0a.css",
+    "main.js": "/tomgrad/static/js/main.ad1d9505.js",
+    "static/js/787.c84bb2e0.chunk.js": "/tomgrad/static/js/787.c84bb2e0.chunk.js",
+    "static/media/logo.svg": "/tomgrad/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/tomgrad/index.html",
+    "main.073c9b0a.css.map": "/tomgrad/static/css/main.073c9b0a.css.map",
+    "main.ad1d9505.js.map": "/tomgrad/static/js/main.ad1d9505.js.map",
+    "787.c84bb2e0.chunk.js.map": "/tomgrad/static/js/787.c84bb2e0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.bd696fec.js"
+    "static/js/main.ad1d9505.js"
   ]
 }
